@@ -1,3 +1,12 @@
+# Como funciona o site?
+
+- Consulte o Tribunal de Contas da União para pegar o número, ano e o colegiado do Acórdão que você deseja saber o assunto.
+
+- Preencha os campos Número, Ano e Colegiado corretamente e o site irá consultar se o Acórdão existe na nossa base própria.
+
+- No campo 'Conteúdo do Acórdão', o modelo irá predizer o assunto que está escrito neste campo e irá desconsiderar os campos Número, Ano e Colegiado. 
+
+
 ### Download the files on drive bellow and copy then to the service folder
 
 https://drive.google.com/drive/folders/1egRMfEvARvy3Ij-qopVxGxzkxIhHYil_?usp=sharing
